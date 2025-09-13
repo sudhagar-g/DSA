@@ -17,6 +17,8 @@ n1.next = n2   #linking the 1st node to next node
 n2.next = n3
 n3.next = n4
 n4.next = n5
+#n5.next = n1     ==>  # it will create infinity loop
+
 
 
 currentNode = n1
