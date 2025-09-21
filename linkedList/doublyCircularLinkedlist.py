@@ -71,7 +71,7 @@ while currentNode != startNode:
     print(currentNode.data,end = " -> ")
     currentNode = currentNode.prev
 
-print("...........")    
+print("...")    
 
 
 

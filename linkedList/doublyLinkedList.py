@@ -41,7 +41,7 @@ n8.prev = n7
 n8.next = n9
 
 n9.prev= n8
-n9.next = n1
+
 
 
 currentNode = n1
